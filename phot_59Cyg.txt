@@ -1,0 +1,44 @@
+U     3.770  0.05    Johnson    Morel & Magnenat 1978
+B     4.710  0.05    Johnson    Morel & Magnenat 1978
+V     4.750  0.05    Johnson    Morel & Magnenat 1978
+R     4.620  0.05    Johnson    Morel & Magnenat 1978
+I     4.630  0.05    Johnson    Morel & Magnenat 1978
+
+u     4.870  0.190   Stromgren  Paunzen 2015 - compilation
+v     4.902  0.153   Stromgren  Paunzen 2015 - compilation
+b     4.862  0.125   Stromgren  Paunzen 2015 - compilation
+y     4.863  0.099   Stromgren  Paunzen 2015 - compilation
+
+J     4.657  0.270   2MASS      Cutri et al. 2003
+H     4.457  0.084   2MASS      Cutri et al. 2003
+K     4.345  0.340   2MASS      Cutri et al. 2003
+
+J     4.63   0.03    standard   Dougherty et al. 1991
+J     4.60   0.04    standard   Dougherty et al. 1991
+J     4.59   0.04    standard   Dougherty et al. 1991
+H     4.54   0.03    standard   Dougherty et al. 1991
+H     4.46   0.05    standard   Dougherty et al. 1991
+H     4.49   0.06    standard   Dougherty et al. 1991
+K     4.30   0.04    standard   Dougherty et al. 1991
+K     4.28   0.06    standard   Dougherty et al. 1991
+K     4.29   0.05    standard   Dougherty et al. 1991
+L     3.96   0.06    standard   Dougherty et al. 1991
+L     3.96   0.07    standard   Dougherty et al. 1991
+L     3.99   0.11    standard   Dougherty et al. 1991
+
+#J     5.18   0.07    Johnson    Ashok et al. 1984
+#H     5.17   0.07    Johnson    Ashok et al. 1984
+#K     5.00   0.07    Johnson    Ashok et al. 1984
+
+#S9W   3.225  0.031   AKARI      Ita et al. 2010; S9W magnitude in the AKARI-vega system 
+#L18W  2.791  0.043   AKARI      Ita et al. 2010; L18W magnitude in AKARI-vega system
+
+Teff  21750  655     K       Fremat et al. 2005; Apparent effective temperature
+Teff  24808  520     K       Fremat et al. 2005; Effective temperature
+logg  3.784  0.085   cm/s2   Fremat et al. 2005; Apparent surface gravity
+logg  3.966  0.061   cm/s2   Fremat et al. 2005; Surface gravity
+vsini 379    27      km/s    Fremat et al. 2005; Apparent rotational velocity
+vsini 387    23      km/s    Fremat et al. 2005; Corrected rotational velocity
+Vc    530    32      km/s    Fremat et al. 2005; Critical equatorial velocity
+i     73.2   3.2     deg     Fremat et al. 2005; Estimated inclination angle
+
